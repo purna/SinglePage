@@ -1,2 +1,2 @@
-# SinglePage
-Single page website
+# Zen-Garden
+Zen Garden website
